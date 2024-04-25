@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arche</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archr-pepito&label=Profile%20views&color=0e75b6&style=flat" alt="archr-pepito" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arche-pepito&label=Profile%20views&color=0e75b6&style=flat" alt="arche-pepito" /> </p>
 
 - 📫 How to reach me **archepepito.u@gmail.com**
 
