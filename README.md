@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arche-pepito&label=Profile%20views&color=0e75b6&style=flat" alt="arche-pepito" /> </p>
 
-- 📫 How to reach me **archepepito.u@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://web.facebook.com/profile.php?id=100071678277187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100071678277187" height="30" width="40" /></a>
